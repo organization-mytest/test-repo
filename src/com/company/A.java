@@ -8,5 +8,6 @@ public class A {
         System.out.println("why branch protection is only for paid users???");
         System.out.println("this is stupid");
         System.out.println("really stupid!");
+        System.out.println("another test");
     }
 }
