@@ -7,5 +7,6 @@ public class B {
 
     public void fun(){
         System.out.println("Jakaś zmiana");
+        System.out.println("zmiana");
     }
 }
