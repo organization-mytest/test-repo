@@ -10,5 +10,6 @@ public class A {
         System.out.println("really stupid!");
         System.out.println("another test");
         System.out.println("another test1");
+        System.out.println("another test2");
     }
 }
