@@ -11,5 +11,6 @@ public class A {
         System.out.println("another test");
         System.out.println("another test1");
         System.out.println("another test2");
+        System.out.println("another test3");
     }
 }
